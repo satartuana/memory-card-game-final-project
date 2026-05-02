@@ -53,3 +53,7 @@ while '*' in revealed:
 print("\nCongratulations! You completed the game.")
 print("Total moves:", moves)
 input("Press Enter to exit...")
+# Save the final score to scores.txt
+with open("scores.txt", "a") as file:
+    file.write(f"Game finished with {moves} moves.\n")
+print("Score saved to scores.txt")
