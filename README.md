@@ -14,3 +14,8 @@ The player selects two cards each turn to find matching pairs.
 - Match checking
 - Move counter
 - Simple terminal interface
+## How to Run
+python memory_game.py
+## Author
+Işıl Tuana Satar
+
