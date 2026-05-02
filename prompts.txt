@@ -1,0 +1,15 @@
+AI PROMPT LOG - MEMORY CARD GAME PROJECT
+
+1. Initial Request: 
+"Help me set up a Python-based Memory Card Game following my instructor's requirements."
+
+2. Logic Development: 
+"How can I implement a random shuffle for 8 cards (4 pairs) in Python?"
+
+3. Data Persistence: 
+"Explain how to save the move count to a text file so it stays updated."
+
+4. Debugging:
+"Help me fix the logic where cards should flip back if they don't match after a short delay."
+REASONING BEHIND PROMPTS:
+I designed my prompts to follow a modular approach. First, I focused on the core game engine (shuffling and matching), then I asked for help with error handling (preventing the same card from being picked twice) and finally implemented file handling to meet the instructor's persistence requirements.
